@@ -1,4 +1,4 @@
-package Day23_Arrays;
+package day23_Arrays;
 
 public class MaximumMinimumNumber {
     // write a program that can find the maximum number from an array of integers
